@@ -5,68 +5,68 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<string>Vendor</string>
 	<key>CFBundleExecutable</key>
-	<string>$(EXECUTABLE_NAME)</string>
+	<string>Vendor</string>
 	<key>CFBundleIdentifier</key>
-	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<string>Vendor</string>
 	<key>CFBundleInfoDictionaryVersion</key>
-	<string>6.0</string>
+	<string>Vendor</string>
 	<key>CFBundleName</key>
-	<string>6amMart Vendor</string>
+	<string>Vendor</string>
 	<key>CFBundlePackageType</key>
-	<string>APPL</string>
+	<string>Vendor</string>
 	<key>CFBundleShortVersionString</key>
-	<string>$(FLUTTER_BUILD_NAME)</string>
+	<string>Vendor</string>
 	<key>CFBundleSignature</key>
-	<string>????</string>
+	<string>Vendor</string>
 	<key>CFBundleVersion</key>
-	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<string>Vendor</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSBluetoothAlwaysUsageDescription</key>
-	<string>Need BLE permission for getting printers</string>
+	<string>Vendor</string>
 	<key>NSBluetoothPeripheralUsageDescription</key>
-	<string>Need BLE permission for getting printers</string>
+	<string>Vendor</string>
 	<key>NSCameraUsageDescription</key>
-	<string>This app requires access to the camera to upload user profile picture.</string>
+	<string>Vendor</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Need Location permission for print invoice</string>
+	<string>Vendor</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Need Location permission for print invoice</string>
+	<string>Vendor</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>This app needs access to location to manage coverage of restaurant and when add a new address.</string>
+	<string>Vendor</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>This app requires access to the camera to upload customer profile picture and voice.</string>
+	<string>Vendor</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>This app requires access to the gallery to upload user profile picture..</string>
+	<string>Vendor</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UIBackgroundModes</key>
 	<array>
-		<string>fetch</string>
-		<string>remote-notification</string>
+		<string>Vendor</string>
+		<string>Vendor</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
-	<string>LaunchScreen</string>
+	<string>Vendor</string>
 	<key>UIMainStoryboardFile</key>
-	<string>Main</string>
+	<string>Vendor</string>
 	<key>UIStatusBarHidden</key>
 	<false/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>Vendor</string>
+		<string>Vendor</string>
+		<string>Vendor</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
+		<string>Vendor</string>
+		<string>Vendor</string>
+		<string>Vendor</string>
+		<string>Vendor</string>
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
@@ -80,13 +80,13 @@
                     <array>
                         <dict>
                             <key>UISceneClassName</key>
-                            <string>UIWindowScene</string>
+                            <string>Vendor</string>
                             <key>UISceneDelegateClassName</key>
-                            <string>FlutterSceneDelegate</string>
+                            <string>Vendor</string>
                             <key>UISceneConfigurationName</key>
-                            <string>flutter</string>
+                            <string>Vendor</string>
                             <key>UISceneStoryboardFile</key>
-                            <string>Main</string>
+                            <string>Vendor</string>
                         </dict>
                     </array>
                 </dict>

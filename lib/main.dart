@@ -28,10 +28,10 @@ Future<void> main() async {
   if(GetPlatform.isAndroid) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA",
-        appId: "1:491987943015:android:9795ba69e89c684b8f1ec2",
-        messagingSenderId: "491987943015",
-        projectId: "stackmart-500c7",
+        apiKey: "AIzaSyDc26iMpNeWGE3Mfabf-ln-8ZQKIkZaeiE",
+        appId: "1:888731977079:android:0a34f6ff3d70a691abcd72",
+        messagingSenderId: "888731977079",
+        projectId: "new--nc-mart2026",
       ),
     );
   }else {

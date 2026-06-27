@@ -1,34 +1,49 @@
 {
   "project_info": {
-    "project_number": "491987943015",
-    "project_id": "stackmart-500c7",
-    "storage_bucket": "stackmart-500c7.appspot.com"
+    "project_number": "888731977079",
+    "project_id": "new--nc-mart2026",
+    "storage_bucket": "new--nc-mart2026.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:491987943015:android:9795ba69e89c684b8f1ec2",
+        "mobilesdk_app_id": "1:888731977079:android:ea4c534b4a59a923abcd72",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixam_mart_store_app"
+          "package_name": "com.ncmart.customer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
+          "client_id": "888731977079-onoksdlm1j2bugqdajamgog5khi6f2qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncmart.customer",
+            "certificate_hash": "7000240752485dbcb6fbf3bf519cbbca53afe7b9"
+          }
+        },
+        {
+          "client_id": "888731977079-5pemv0ag07b579feh8grjt1t72288pal.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA"
+          "current_key": "AIzaSyDc26iMpNeWGE3Mfabf-ln-8ZQKIkZaeiE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
+              "client_id": "888731977079-5pemv0ag07b579feh8grjt1t72288pal.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "888731977079-dcon4fil9ddf3re0f383jl6vahmelkob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncmart.customeruser"
+              }
             }
           ]
         }
@@ -36,28 +51,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:491987943015:android:a6fb4303cc4bf3d18f1ec2",
+        "mobilesdk_app_id": "1:888731977079:android:3978e0e45ea84d34abcd72",
         "android_client_info": {
-          "package_name": "com.sixamtech.sixam_mart_user"
+          "package_name": "com.ncmart.delivery"
         }
       },
       "oauth_client": [
         {
-          "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
+          "client_id": "888731977079-5pemv0ag07b579feh8grjt1t72288pal.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA"
+          "current_key": "AIzaSyDc26iMpNeWGE3Mfabf-ln-8ZQKIkZaeiE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
+              "client_id": "888731977079-5pemv0ag07b579feh8grjt1t72288pal.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "888731977079-dcon4fil9ddf3re0f383jl6vahmelkob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncmart.customeruser"
+              }
             }
           ]
         }
@@ -65,86 +87,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:491987943015:android:0fe481bb315de1de8f1ec2",
+        "mobilesdk_app_id": "1:888731977079:android:0a34f6ff3d70a691abcd72",
         "android_client_info": {
-          "package_name": "com.sixamtech.stack_food_delivery"
+          "package_name": "com.ncmart.vendor"
         }
       },
       "oauth_client": [
         {
-          "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
+          "client_id": "888731977079-5pemv0ag07b579feh8grjt1t72288pal.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA"
+          "current_key": "AIzaSyDc26iMpNeWGE3Mfabf-ln-8ZQKIkZaeiE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
+              "client_id": "888731977079-5pemv0ag07b579feh8grjt1t72288pal.apps.googleusercontent.com",
               "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:491987943015:android:de46aa9776b1b4888f1ec2",
-        "android_client_info": {
-          "package_name": "com.sixamtech.stack_food_user"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
+            },
             {
-              "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:491987943015:android:63ecc08c0433bf7c8f1ec2",
-        "android_client_info": {
-          "package_name": "com.sixamtech.stack_food_vandor"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCc3OCd5I2xSlnftZ4bFAbuCzMhgQHLivA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "491987943015-agln6biv84krpnngdphj87jkko7r9lb8.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "888731977079-dcon4fil9ddf3re0f383jl6vahmelkob.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ncmart.customeruser"
+              }
             }
           ]
         }
